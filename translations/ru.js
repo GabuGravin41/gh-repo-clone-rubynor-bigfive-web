@@ -395,95 +395,95 @@ inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
     `
   },
   neuroticismPage: {
-    quote: 'Neuroticism refers to the tendency to experience negative feelings.',
+    quote: 'Невротизм выражает склонность к переживанию негативных эмоций.',
     text1: `
     <p>
-      Neuroticism refers to the tendency to experience negative feelings.
+      Невротизм выражает склонность к переживанию негативных эмоций.
     </p>
     <p>
-      Freud originally used the term neurosis to describe a condition marked by mental distress, emotional suffering, and an inability to cope effectively with the normal demands of life.
+      Изначально Фрейд использовал термин невроз, чтобы описать состояние, характеризующееся психологическим дистрессом, эмоциональными страданиями и неспособностью эффективно справляться с нормальными требованиями жизни.
     </p>
     <p>
-      He suggested that everyone shows some signs of neurosis, but that we differ in our degree of suffering and our specific symptoms of distress.
+      Он предположил, что у каждого человека наблюдаются те или иные признаки невроза, но они различаются по степени страдания и конкретным симптомам дистресса.
     </p>
     <p>
-      Today neuroticism refers to the tendency to experience negative feelings.
+      Сегодня же невротизмом называют склонность испытывать негативные чувства.
     </p>
     <p>
-      Those who score high on Neuroticism may experience primarily one specific negative feeling such as anxiety, anger, or depression, but are likely to experience several of these emotions.
+      Те у кого высокие показатели по шкале Невротизм в первую очередь могут испытывать одно конкретное негативное чувство, например тревогу, гнев или депрессию, но, могут испытывать и несколько.
     </p>`,
     text2: `<p>
-      People high in neuroticism are emotionally reactive.
+      Люди с высокими показателями невротизма эмоционально реактивны.
     </p>
     <p>
-      They respond emotionally to events that would not affect most people, and their reactions tend to be more intense than normal.
+      Они эмоционально реагируют на ситуации, которые не влияют на большинство людей и их реакции преимущественно более интенсивны, чем обычно.
     </p>
     <p>
-      They are more likely to interpret ordinary situations as threatening, and minor frustrations as hopelessly difficult.
+      Они чаще интерпретируют обычные ситуации как угрожающие, а незначительные трудности — как безнадежно сложные.
     </p>
     <p>
-      Their negative emotional reactions tend to persist for unusually long periods of time, which means they are often in a bad mood.
+      Их негативные эмоциональные реакции, как правило, сохраняются в течение необычно длительных периодов времени, а это означает, что они часто находятся в плохом настроении.
     </p>
     <p>
-      These problems in emotional regulation can diminish a neurotic's ability to think clearly, make decisions, and cope effectively with stress.
-    </p>
-
-    <div class="title">
-      Anxiety
-    </div>
-    <p>
-      The "fight-or-flight" system of the brain of anxious individuals is too easily and too often engaged.
-      Therefore, people who are high in anxiety often feel like something dangerous is about to happen.
-      They may be afraid of specific situations or be just generally fearful.
-      They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless.
+      Вышеописанные проблемы в эмоциональной регуляции могут снизить способность человека ясно мыслить, принимать решения и эффективно справляться со стрессом.
     </p>
 
     <div class="title">
-      Anger
+      Тревожность
     </div>
     <p>
-      Persons who score high in Anger feel enraged when things do not go their way.
-      They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated.
-      This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on neuroticism.
-      Low scorers do not get angry often or easily.
+      Реакция мозга "бей или беги" у тревожных личностей задействуется слишком легко или слишком часто.
+      Поэтому люди с высоким уровнем тревожности часто чувствуют, что вот-вот произойдет что-то опасное.
+      Они могут бояться конкретных ситуаций или быть в целом пугливыми.
+      Они чувствуют себя напряженными и нервными. Люди с низким уровнем тревожности обычно спокойны и не испытывают страха.
     </p>
 
     <div class="title">
-      Depression
+      Гневливость
     </div>
     <p>
-      This scale measures the tendency to feel sad, dejected, and discouraged.
-      High scorers lack energy and have difficulty initiating activities.
-      Low scorers tend to be free from these depressive feelings.
+      Люди с выскими показателями по шкале Гневливость, чувствуют злость, когда что-то идёт не так, как они хотят.
+      Они чувствительны к тому, обращаются ли с ними справедливо, и чувствуют обиду и горечь, когда чувствуют, что их обманывают.
+      Эта шкала измеряет склонность испытывать гнев; выражает ли человек раздражение и враждебность или нет, зависит от уровня невротизма индивида.
+      Люди с низкими показателями редко выходят из себя.
     </p>
 
     <div class="title">
-      Self-Consciousness
+      Депрессия
     </div>
     <p>
-      Self-conscious individuals are sensitive about what others think of them.
-      Their concern about rejection and ridicule cause them to feel shy and uncomfortable abound others.
-      They are easily embarrassed and often feel ashamed.
-      Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy.
-      Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them.
-      They do not feel nervous in social situations.
+      Эта шкала измеряет склонность чувствовать грусть, уныние и обескураженность.
+      Людям с высокими показателями не хватает энергии, и им трудно начинать что-либо делать.
+      Люди с низкими показателями, как правило, свободны от этих депрессивных чувств.
     </p>
 
     <div class="title">
-      Immoderation
+      Застенчивость
     </div>
     <p>
-      Immoderate individuals feel strong cravings and urges that they have have difficulty resisting.
-      They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences.
-      Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge.
+      Застенчивые личности чуствительны к тому, что окружающие думают о них
+      Их беспокойство по поводу отвержения и насмешек заставляет их чувствовать себя стеснительно и некомфортно в присутствии других.
+      Они легко смущаются и часто чувствуют стыд.
+      Их опасения, что другие будут критиковать их или высмеивать, преувеличены и нереалистичны, но их неловкость и дискомфорт могут превратить эти страхи в самосбывающееся пророчество.
+      Люди с низкими показателями, напротив, не страдают от ложного ощущения, что все наблюдают и осуждают их.
+      Они не нервничают в социальных ситуациях.
     </p>
 
     <div class="title">
-      Vulnerability
+      Неумеренность
     </div>
     <p>
-      High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress.
-      Low scorers feel more poised, confident, and clear-thinking when stressed.
+      Неумеренные люди испытывают сильную тягу и побуждения, которым им трудно сопротивляться.
+      Они, как правило, ориентированы на краткосрочные удовольствия и вознаграждения, а не на долгосрочные последствия.
+      Люди с низкими показателями не испытывают сильной, непреодолимой тяги и, следовательно, не испытывают соблазна переусердствовать.
+    </p>
+
+    <div class="title">
+      Уязвимость
+    </div>
+    <p>
+      Люди с высокими показателями по шкале Уязвимость испытывают панику, замешательство и беспомощность, когда находятся под давлением или стрессом.
+      Люди с низкими показателями чувствуют себя более уравновешенными, уверенными и ясно мыслят в состоянии стресса.
     </p>
     `
   },

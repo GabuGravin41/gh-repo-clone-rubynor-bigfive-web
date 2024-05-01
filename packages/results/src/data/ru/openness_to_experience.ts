@@ -110,3 +110,5 @@ const openness: TemplateDomain = {
     }
   ]
 }
+
+export default openness
